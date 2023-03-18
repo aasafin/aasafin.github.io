@@ -33,6 +33,33 @@
     </item>
     
     <item>
+      <title>13.03-17.03 week</title>
+      <link>https://example.com/post/13-17-of-march/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/13-17-of-march/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Passed linear algebra test on the &amp;ldquo;Diagnalization and finding Jordan&amp;rsquo;s normal form&amp;rdquo; test.&lt;/li&gt;
+&lt;li&gt;Finished the 6th laboratory work of the &amp;ldquo;os-intro&amp;rdquo; course&lt;/li&gt;
+&lt;li&gt;Learned of such musical concepts as negative harmony and octatonic scales.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control systems (VCS). Git.</title>
+      <link>https://example.com/post/git-version-control/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git-version-control/</guid>
+      <description>&lt;h2 id=&#34;version-control-systems&#34;&gt;Version control systems&lt;/h2&gt;
+&lt;p&gt;Version control systems (also known as revision control, source control, source code management) are systems responcible for magaing changes in different kinds of collections of information and projects. They are used to distinguish different changes by their authors, the time of change, and by the parts of the project where these changes were applied. VCS enabels such functions as rolling back changes, applying them separately and merging them.&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git is a distributed VCS which means that its complete codebase is mirrored on every developer&amp;rsquo;s computer. It&amp;rsquo;s usually used by software developers. Initially it wass released on 7th April 2005.&lt;/p&gt;
+&lt;p&gt;This system is used on the &amp;ldquo;computer sciences and programming technologies&amp;rdquo; course of RUDN university. This site is also made using git and github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +243,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-178346295&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-784193256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +253,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-178346295&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-784193256&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
