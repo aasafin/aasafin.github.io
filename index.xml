@@ -33,6 +33,39 @@
     </item>
     
     <item>
+      <title>03.04-07.04 week</title>
+      <link>https://example.com/post/03-07-of-april/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/03-07-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Passed the first Mathematical logic test.&lt;/li&gt;
+&lt;li&gt;Finished the 9th laboratory work of the &amp;ldquo;os-intro&amp;rdquo; course&lt;/li&gt;
+&lt;li&gt;Progressed in learning Mendelssohn violin concerto in E minor.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup languages</title>
+      <link>https://example.com/post/git-version-control-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git-version-control-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;markup-languges&#34;&gt;Markup languges&lt;/h2&gt;
+&lt;p&gt;Markup languages are text-encoding systems consisted of symboles that are inserted in the text. They control its structure and formatting. They are used to make well-looking text documents.&lt;/p&gt;
+&lt;h2 id=&#34;light-markup-languages&#34;&gt;Light markup languages&lt;/h2&gt;
+&lt;p&gt;Light markup languages are markup languages with lesser functions which are yet easier in understanding and learning.&lt;/p&gt;
+&lt;p&gt;Here are several examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>13.03-17.03 week</title>
       <link>https://example.com/post/13-17-of-march/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
@@ -243,7 +276,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-784193256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-736941825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +286,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-784193256&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-736941825&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
