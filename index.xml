@@ -33,6 +33,36 @@
     </item>
     
     <item>
+      <title>24.04-28.04 week</title>
+      <link>https://example.com/post/24-28-of-april/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-28-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied absolute and conditional extremums of functions of multiple variables theme.&lt;/li&gt;
+&lt;li&gt;Finished the 12th laboratory work of the &amp;ldquo;os-intro&amp;rdquo; course.&lt;/li&gt;
+&lt;li&gt;Progressed in learning Mendelssohn violin concerto in E minor, started learning 5th Paganini Caprice, revised Bach&amp;rsquo;s Prelude in E major for solo violin.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://example.com/post/report-design/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report-design/</guid>
+      <description>&lt;h2 id=&#34;general-essence-of-reports&#34;&gt;General essence of reports&lt;/h2&gt;
+&lt;p&gt;Report is an important part of any work which is done in a community that includes hierarchy of many workers, as it is a very useful means of systematic information transmission.&lt;/p&gt;
+&lt;h2 id=&#34;report-design&#34;&gt;Report design&lt;/h2&gt;
+&lt;p&gt;Many communities, companies and systems suffer from too broad reports that include extra infromation. That happens because reports are usually done in accordance with a certain scheme, and even small surfeits in such scheme leads too a dramatic increase of information that needs to be processed. Therefore reports should be made very carefully.&lt;/p&gt;
+&lt;p&gt;First of all, the writer should use all possibilities to avoid any overcomplications in the text.&lt;/p&gt;
+&lt;p&gt;Secondly, the report should be well structured. That means, its structure is supposed to be hierarchical so that any reader can easily find any information needed. It should contain paragraphs, headings, subheadings and, of coarse, table of contents.&lt;/p&gt;
+&lt;p&gt;Also it should be clear when the report was written and who wrote it.&lt;/p&gt;
+&lt;p&gt;In terms of visiual design, the more minimalistic and uniform the report is, the easier it is to percept. It&amp;rsquo;s always better to use only one font and just several types of it for different purposes such as emphasizing something amidst the paragraph or marking a heading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>03.04-07.04 week</title>
       <link>https://example.com/post/03-07-of-april/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
@@ -48,9 +78,9 @@
     
     <item>
       <title>Markup languages</title>
-      <link>https://example.com/post/git-version-control-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>https://example.com/post/markup-languages/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git-version-control-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>https://example.com/post/markup-languages/</guid>
       <description>&lt;h2 id=&#34;markup-languges&#34;&gt;Markup languges&lt;/h2&gt;
 &lt;p&gt;Markup languages are text-encoding systems consisted of symboles that are inserted in the text. They control its structure and formatting. They are used to make well-looking text documents.&lt;/p&gt;
 &lt;h2 id=&#34;light-markup-languages&#34;&gt;Light markup languages&lt;/h2&gt;
@@ -276,7 +306,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-736941825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-531486279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -286,7 +316,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-736941825&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-531486279&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
