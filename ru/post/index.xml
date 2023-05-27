@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://example.com/ru/post/</link>
+      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>8.05-12.05</title>
+      <link>https://example.com/ru/post/8-12-of-may/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/8-12-of-may/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал ряды в рамках курса математического анализа.&lt;/li&gt;
+&lt;li&gt;Закончил 14-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Повторил скрипичный концерт Мендельсона ми минор и прелюдию ми мажор Баха для скрипки соло.&lt;/li&gt;
+&lt;li&gt;Сдал тест по мат. анализу.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/ru/post/scientific-programming-languages/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Языки программирования используются в разных областях науки для разных целей. Прежде всего, они очень полезны для многих видов вычислительных и аппроксимирующих алгоритмов. При написании такого можно было бы использовать обычные языки, такие как C, C++ или python. Но такие языки, как Fortran, гораздо более популярны в научном программировании, потому что они были разработаны именно для этой цели, и в настоящее время они включают в себя огромное количество библиотек с различными функциями, используемыми в математике и инженерии.&lt;/p&gt;
+&lt;p&gt;Функциональные языки программирования представляют особый интерес для математики и компьютерных наук, поскольку они построены на математическом определении функции, а не на информационном.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>22.05-26.05</title>
+      <link>https://example.com/ru/post/22.05-26.05/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/22.05-26.05/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал функциональные ряды.&lt;/li&gt;
+&lt;li&gt;Взял паузу в игре на скрипке.&lt;/li&gt;
+&lt;li&gt;Изучал музыку Брамса.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>24.04-28.04</title>
+      <link>https://example.com/ru/post/24-28-of-april/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/24-28-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал абсолютные и условные экстремумы функций множественных переменных.&lt;/li&gt;
+&lt;li&gt;Закончил 12-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Продвинулся в разучивании скрипичного концерта Мендельсона ми минор, начал учить 5-й каприз Паганини, повторял Прелюдию Баха ми мажор для скрипки соло.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчетов</title>
+      <link>https://example.com/ru/post/report-design/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/report-design/</guid>
+      <description>&lt;h2 id=&#34;значимость-отчетов&#34;&gt;Значимость отчетов&lt;/h2&gt;
+&lt;p&gt;Отчет является важной частью любой работы, выполняемой в сообществе, включающем иерархию многих работников, поскольку это очень полезное средство систематической передачи информации.&lt;/p&gt;
+&lt;h2 id=&#34;оформление-отчетов&#34;&gt;Оформление отчетов&lt;/h2&gt;
+&lt;p&gt;Многие сообщества, компании и системы страдают от слишком широких отчетов, включающих дополнительную информацию. Это происходит потому, что отчеты обычно составляются в соответствии с определенной схемой, и даже небольшие перебои в такой схеме приводят к резкому увеличению объема информации, которую необходимо обработать. Поэтому отчеты должны составляться очень тщательно.&lt;/p&gt;
+&lt;p&gt;Прежде всего, автор должен использовать все возможности, чтобы избежать каких-либо излишних усложнений в тексте.&lt;/p&gt;
+&lt;p&gt;Во-вторых, отчет должен быть хорошо структурирован. Это означает, что его структура должна быть иерархической, чтобы любой читатель мог легко найти любую необходимую информацию. Он должен содержать абзацы, заголовки, подзаголовки и, конечно, оглавление.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Планы на лето</title>
+      <link>https://example.com/ru/post/summer-plans/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/summer-plans/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Сдать сессию (желательно на отлично).&lt;/li&gt;
+&lt;li&gt;Выбрать музыкальную программу для дальнейшего изучения.&lt;/li&gt;
+&lt;li&gt;Отдохнуть!&lt;/li&gt;
+&lt;li&gt;Приобрести несколько новых навыков.&lt;/li&gt;
+&lt;li&gt;Возможно, найти работу.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03.04-07.04</title>
+      <link>https://example.com/ru/post/03-07-of-april/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/03-07-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сдал первый тест по математической логике.&lt;/li&gt;
+&lt;li&gt;Закончил 9-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Продвинулся в изучении скрипичного концерта Мендельсона ми минор.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки</title>
+      <link>https://example.com/ru/post/markup-languages/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markup-languages/</guid>
+      <description>&lt;h2 id=&#34;языки-разметки&#34;&gt;Языки разметки&lt;/h2&gt;
+&lt;p&gt;Языки разметки - это системы кодирования текста, состоящие из символов, которые вставляются в текст. Они контролируют его структуру и форматирование. Они используются для создания хорошо выглядящих текстовых документов.&lt;/p&gt;
+&lt;h2 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Облегченные языки разметки - это языки разметки с меньшими функциями, которые, тем не менее, проще в понимании и изучении.&lt;/p&gt;
+&lt;p&gt;Вот несколько примеров:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>13.03-17.03</title>
+      <link>https://example.com/ru/post/13-17-of-march/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/13-17-of-march/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сдал тест по линейной алгебре по теме &amp;ldquo;Диагностика и нахождение нормальной формы Джордана&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Закончил 6-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Узнал о таких музыкальных понятиях, как негативная гармония и октатонические гаммы.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Системы контроля версий (VCS). Git.</title>
+      <link>https://example.com/ru/post/git-version-control/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git-version-control/</guid>
+      <description>&lt;h2 id=&#34;системы-контроля-версий&#34;&gt;Системы контроля версий&lt;/h2&gt;
+&lt;p&gt;Системы контроля версий (также известные как контроль версий, управление версиями исходного кода, управление исходным кодом code management) - это системы, ответственные за внесение изменений в различные виды коллекций информации и проектов. Они используются для различения различных изменений по их авторам, времени внесения изменений и по частям проекта, в которых эти изменения были применены. VCS позволяет выполнять такие функции, как откат изменений, применение их по отдельности и объединение.&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git - это распределенный VCS, что означает, что его полная кодовая база зеркально отображается на компьютере каждого разработчика. Обычно он используется разработчиками программного обеспечения. Первоначально он был выпущен 7 апреля 2005 года.&lt;/p&gt;
+&lt;p&gt;Эта система используется в курсе &amp;ldquo;Компьютерные науки и технологии программирования&amp;rdquo; РУДН. Этот сайт также создан с использованием git и github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

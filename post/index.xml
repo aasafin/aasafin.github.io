@@ -39,6 +39,20 @@
     </item>
     
     <item>
+      <title>22.05-26.05</title>
+      <link>https://example.com/post/22.05-26.05/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22.05-26.05/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied functional series.&lt;/li&gt;
+&lt;li&gt;Took a musical performing break.&lt;/li&gt;
+&lt;li&gt;Studied Brahms&amp;rsquo; music.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>24.04-28.04 week</title>
       <link>https://example.com/post/24-28-of-april/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
@@ -65,6 +79,21 @@
 &lt;p&gt;Secondly, the report should be well structured. That means, its structure is supposed to be hierarchical so that any reader can easily find any information needed. It should contain paragraphs, headings, subheadings and, of coarse, table of contents.&lt;/p&gt;
 &lt;p&gt;Also it should be clear when the report was written and who wrote it.&lt;/p&gt;
 &lt;p&gt;In terms of visiual design, the more minimalistic and uniform the report is, the easier it is to percept. It&amp;rsquo;s always better to use only one font and just several types of it for different purposes such as emphasizing something amidst the paragraph or marking a heading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer plans</title>
+      <link>https://example.com/post/summer-plans/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/summer-plans/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Pass the session (preferably excellent).&lt;/li&gt;
+&lt;li&gt;Choose a music program for further study.&lt;/li&gt;
+&lt;li&gt;Rest!&lt;/li&gt;
+&lt;li&gt;Acquire several new skills.&lt;/li&gt;
+&lt;li&gt;Maybe find a job.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

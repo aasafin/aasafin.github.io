@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Концерт Бруха для скрипки с оркестром</title>
+      <link>https://example.com/ru/project/bruch/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/bruch/</guid>
+      <description>&lt;p&gt;Цель проекта состояла в том, чтобы выучить первую часть концерта для скрипки с оркестром Бруха и успешно исполнить ее на сцене. Помимо репетиционного процесса, ключевой частью проекта была работа в команде с концертмейстером и классным руководителем при создании основательной интерпретации произведения. За концертным исполнением также последовал знаменитый &amp;ldquo;Танец рыцарей&amp;rdquo; Прокофьева из балета &amp;ldquo;Ромео и Джульетта&amp;rdquo;. С видеозаписью выступления можно ознакомиться по ссылке под заголовком.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8.05-12.05</title>
+      <link>https://example.com/ru/post/8-12-of-may/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/8-12-of-may/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал ряды в рамках курса математического анализа.&lt;/li&gt;
+&lt;li&gt;Закончил 14-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Повторил скрипичный концерт Мендельсона ми минор и прелюдию ми мажор Баха для скрипки соло.&lt;/li&gt;
+&lt;li&gt;Сдал тест по мат. анализу.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/ru/post/scientific-programming-languages/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Языки программирования используются в разных областях науки для разных целей. Прежде всего, они очень полезны для многих видов вычислительных и аппроксимирующих алгоритмов. При написании такого можно было бы использовать обычные языки, такие как C, C++ или python. Но такие языки, как Fortran, гораздо более популярны в научном программировании, потому что они были разработаны именно для этой цели, и в настоящее время они включают в себя огромное количество библиотек с различными функциями, используемыми в математике и инженерии.&lt;/p&gt;
+&lt;p&gt;Функциональные языки программирования представляют особый интерес для математики и компьютерных наук, поскольку они построены на математическом определении функции, а не на информационном.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>22.05-26.05</title>
+      <link>https://example.com/ru/post/22.05-26.05/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/22.05-26.05/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал функциональные ряды.&lt;/li&gt;
+&lt;li&gt;Взял паузу в игре на скрипке.&lt;/li&gt;
+&lt;li&gt;Изучал музыку Брамса.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>24.04-28.04</title>
+      <link>https://example.com/ru/post/24-28-of-april/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/24-28-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучал абсолютные и условные экстремумы функций множественных переменных.&lt;/li&gt;
+&lt;li&gt;Закончил 12-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Продвинулся в разучивании скрипичного концерта Мендельсона ми минор, начал учить 5-й каприз Паганини, повторял Прелюдию Баха ми мажор для скрипки соло.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчетов</title>
+      <link>https://example.com/ru/post/report-design/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/report-design/</guid>
+      <description>&lt;h2 id=&#34;значимость-отчетов&#34;&gt;Значимость отчетов&lt;/h2&gt;
+&lt;p&gt;Отчет является важной частью любой работы, выполняемой в сообществе, включающем иерархию многих работников, поскольку это очень полезное средство систематической передачи информации.&lt;/p&gt;
+&lt;h2 id=&#34;оформление-отчетов&#34;&gt;Оформление отчетов&lt;/h2&gt;
+&lt;p&gt;Многие сообщества, компании и системы страдают от слишком широких отчетов, включающих дополнительную информацию. Это происходит потому, что отчеты обычно составляются в соответствии с определенной схемой, и даже небольшие перебои в такой схеме приводят к резкому увеличению объема информации, которую необходимо обработать. Поэтому отчеты должны составляться очень тщательно.&lt;/p&gt;
+&lt;p&gt;Прежде всего, автор должен использовать все возможности, чтобы избежать каких-либо излишних усложнений в тексте.&lt;/p&gt;
+&lt;p&gt;Во-вторых, отчет должен быть хорошо структурирован. Это означает, что его структура должна быть иерархической, чтобы любой читатель мог легко найти любую необходимую информацию. Он должен содержать абзацы, заголовки, подзаголовки и, конечно, оглавление.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Планы на лето</title>
+      <link>https://example.com/ru/post/summer-plans/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/summer-plans/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Сдать сессию (желательно на отлично).&lt;/li&gt;
+&lt;li&gt;Выбрать музыкальную программу для дальнейшего изучения.&lt;/li&gt;
+&lt;li&gt;Отдохнуть!&lt;/li&gt;
+&lt;li&gt;Приобрести несколько новых навыков.&lt;/li&gt;
+&lt;li&gt;Возможно, найти работу.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03.04-07.04</title>
+      <link>https://example.com/ru/post/03-07-of-april/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/03-07-of-april/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сдал первый тест по математической логике.&lt;/li&gt;
+&lt;li&gt;Закончил 9-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Продвинулся в изучении скрипичного концерта Мендельсона ми минор.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки</title>
+      <link>https://example.com/ru/post/markup-languages/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markup-languages/</guid>
+      <description>&lt;h2 id=&#34;языки-разметки&#34;&gt;Языки разметки&lt;/h2&gt;
+&lt;p&gt;Языки разметки - это системы кодирования текста, состоящие из символов, которые вставляются в текст. Они контролируют его структуру и форматирование. Они используются для создания хорошо выглядящих текстовых документов.&lt;/p&gt;
+&lt;h2 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Облегченные языки разметки - это языки разметки с меньшими функциями, которые, тем не менее, проще в понимании и изучении.&lt;/p&gt;
+&lt;p&gt;Вот несколько примеров:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>13.03-17.03</title>
+      <link>https://example.com/ru/post/13-17-of-march/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/13-17-of-march/</guid>
+      <description>&lt;h2 id=&#34;studying-progress&#34;&gt;Studying progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сдал тест по линейной алгебре по теме &amp;ldquo;Диагностика и нахождение нормальной формы Джордана&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Закончил 6-ю лабораторную работу курса &amp;ldquo;os-intro&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Узнал о таких музыкальных понятиях, как негативная гармония и октатонические гаммы.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Системы контроля версий (VCS). Git.</title>
+      <link>https://example.com/ru/post/git-version-control/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git-version-control/</guid>
+      <description>&lt;h2 id=&#34;системы-контроля-версий&#34;&gt;Системы контроля версий&lt;/h2&gt;
+&lt;p&gt;Системы контроля версий (также известные как контроль версий, управление версиями исходного кода, управление исходным кодом code management) - это системы, ответственные за внесение изменений в различные виды коллекций информации и проектов. Они используются для различения различных изменений по их авторам, времени внесения изменений и по частям проекта, в которых эти изменения были применены. VCS позволяет выполнять такие функции, как откат изменений, применение их по отдельности и объединение.&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git - это распределенный VCS, что означает, что его полная кодовая база зеркально отображается на компьютере каждого разработчика. Обычно он используется разработчиками программного обеспечения. Первоначально он был выпущен 7 апреля 2005 года.&lt;/p&gt;
+&lt;p&gt;Эта система используется в курсе &amp;ldquo;Компьютерные науки и технологии программирования&amp;rdquo; РУДН. Этот сайт также создан с использованием git и github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Концерт Бруха для скрипки с оркестром</title>
+      <link>https://example.com/ru/project/bruch/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/bruch/</guid>
+      <description>&lt;p&gt;Цель проекта состояла в том, чтобы выучить первую часть концерта для скрипки с оркестром Бруха и успешно исполнить ее на сцене. Помимо репетиционного процесса, ключевой частью проекта была работа в команде с концертмейстером и классным руководителем при создании основательной интерпретации произведения. За концертным исполнением также последовал знаменитый &amp;ldquo;Танец рыцарей&amp;rdquo; Прокофьева из балета &amp;ldquo;Ромео и Джульетта&amp;rdquo;. С видеозаписью выступления можно ознакомиться по ссылке под заголовком.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/ru/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/ru/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/ru/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
